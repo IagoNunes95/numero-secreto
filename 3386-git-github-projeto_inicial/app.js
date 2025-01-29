@@ -1,4 +1,5 @@
 // testando push
+//testando pull 
 let listaDeNumerosSorteados = [];
 let numeroLimite = 10;
 let numeroSecreto = gerarNumeroAleatorio();
