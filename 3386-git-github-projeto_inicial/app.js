@@ -2,7 +2,7 @@
 //testando pull 
 //testando pull 2
 let listaDeNumerosSorteados = [];
-let numeroLimite = 100;
+let numeroLimite = 30;
 let numeroSecreto = gerarNumeroAleatorio();
 let tentativas = 1;
 
